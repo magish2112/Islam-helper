@@ -1,0 +1,3 @@
+praytimes
+pytz
+python-telegram-bot
